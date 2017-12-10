@@ -3,7 +3,7 @@ defmodule Edeliver.Mixfile do
 
   def project do
     [
-      app: :edeliver_fork,
+      app: :edeliver,
       version: "1.4.5",
       description:  "Build and Deploy Elixir Applications and perform Hot-Code Upgrades and Schema Migrations",
       elixirc_paths: elixirc_paths(),
